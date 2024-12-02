@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning vlms
 
-[![Yonghui Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrytea&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Yonghui Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrytea&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
